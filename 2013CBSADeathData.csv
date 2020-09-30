@@ -1,0 +1,229 @@
+﻿Notes,2013 CBSA,2013 CBSA Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Crude Rate Standard Error
+,"Akron, OH",10420,7402,702221,1054.1,1030.1,1078.1,12.3
+,"Albany-Schenectady-Troy, NY",10580,7868,881839,892.2,872.5,911.9,10.1
+,"Albuquerque, NM",10740,7606,909906,835.9,817.1,854.7,9.6
+,"Allentown-Bethlehem-Easton, PA-NJ",10900,8182,835652,979.1,957.9,1000.3,10.8
+,"Amarillo, TX",11100,2392,263342,908.3,871.9,944.7,18.6
+,"Anchorage, AK",11260,2332,402557,579.3,555.8,602.8,12
+,"Ann Arbor, MI",11460,2274,364709,623.5,597.9,649.1,13.1
+,"Asheville, NC",11700,5001,452319,1105.6,1075,1136.3,15.6
+,"Atlanta-Sandy Springs-Roswell, GA",12060,37086,5789700,640.6,634,647.1,3.3
+,"Atlantic City-Hammonton, NJ",12100,2787,270991,1028.4,990.3,1066.6,19.5
+,"Augusta-Richmond County, GA-SC",12260,5473,594919,920,895.6,944.3,12.4
+,"Austin-Round Rock, TX",12420,10361,2056405,503.8,494.1,513.5,4.9
+,"Bakersfield, CA",12540,6038,884788,682.4,665.2,699.6,8.8
+,"Baltimore-Columbia-Towson, MD",12580,25276,2798886,903.1,891.9,914.2,5.7
+,"Baton Rouge, LA",12940,7044,835175,843.4,823.7,863.1,10
+,"Beaumont-Port Arthur, TX",13140,4312,409968,1051.8,1020.4,1083.2,16
+,"Birmingham-Hoover, AL",13820,12025,1147417,1048,1029.3,1066.7,9.6
+,"Boise City, ID",14260,4855,691423,702.2,682.4,721.9,10.1
+,"Boston-Cambridge-Newton, MA-NH",14460,37215,4794447,776.2,768.3,784.1,4
+,"Boulder, CO",14500,1807,322226,560.8,534.9,586.6,13.2
+,"Bremerton-Silverdale, WA",14740,2226,264811,840.6,805.7,875.5,17.8
+,"Bridgeport-Stamford-Norwalk, CT",14860,6899,944177,730.7,713.4,747.9,8.8
+,"Brownsville-Harlingen, TX",15180,2728,422135,646.2,622,670.5,12.4
+,"Buffalo-Cheektowaga-Niagara Falls, NY",15380,12245,1132804,1080.9,1061.8,1100.1,9.8
+,"Canton-Massillon, OH",15940,4686,401281,1167.8,1134.3,1201.2,17.1
+,"Cape Coral-Fort Myers, FL",15980,6949,722336,962,939.4,984.6,11.5
+,"Cedar Rapids, IA",16300,2218,267799,828.2,793.8,862.7,17.6
+,"Charleston-North Charleston, SC",16700,5854,761155,769.1,749.4,788.8,10.1
+,"Charlotte-Concord-Gastonia, NC-SC",16740,18802,2474314,759.9,749,770.7,5.5
+,"Chattanooga, TN-GA",16860,5848,551632,1060.1,1033,1087.3,13.9
+,"Chicago-Naperville-Elgin, IL-IN-WI",16980,71250,9512999,749,743.5,754.5,2.8
+,"Cincinnati, OH-KY-IN",17140,19816,2165139,915.2,902.5,928,6.5
+,"Clarksville, TN-KY",17300,2016,282349,714,682.8,745.2,15.9
+,"Cleveland-Elyria, OH",17460,21899,2055612,1065.3,1051.2,1079.4,7.2
+,"Colorado Springs, CO",17820,4872,712327,684,664.7,703.2,9.8
+,"Columbia, SC",17900,6880,817488,841.6,821.7,861.5,10.1
+,"Columbus, GA-AL",17980,3118,308755,1009.9,974.4,1045.3,18.1
+,"Columbus, OH",18140,15920,2041520,779.8,767.7,791.9,6.2
+,"Corpus Christi, TX",18580,3864,454726,849.7,822.9,876.5,13.7
+,"Dallas-Fort Worth-Arlington, TX",19100,44365,7233323,613.3,607.6,619,2.9
+,"Davenport-Moline-Rock Island, IA-IL",19340,3884,382268,1016,984.1,1048,16.3
+,"Dayton, OH",19380,8822,800683,1101.8,1078.8,1124.8,11.7
+,"Deltona-Daytona Beach-Ormond Beach, FL",19660,8286,637674,1299.4,1271.4,1327.4,14.3
+,"Denver-Aurora-Lakewood, CO",19740,17904,2853077,627.5,618.3,636.7,4.7
+,"Des Moines-West Des Moines, IA",19780,4651,634725,732.8,711.7,753.8,10.7
+,"Detroit-Warren-Dearborn, MI",19820,41658,4297617,969.3,960,978.6,4.7
+,"Duluth, MN-WI",20260,2924,279227,1047.2,1009.2,1085.1,19.4
+,"Durham-Chapel Hill, NC",20500,3914,559535,699.5,677.6,721.4,11.2
+,"El Paso, TX",21340,5241,841971,622.5,605.6,639.3,8.6
+,"Erie, PA",21500,2945,276207,1066.2,1027.7,1104.7,19.6
+,"Eugene, OR",21660,3495,369519,945.8,914.5,977.2,16
+,"Evansville, IN-KY",21780,3254,315948,1029.9,994.5,1065.3,18.1
+,"Fayetteville, NC",22180,2874,380389,755.5,727.9,783.2,14.1
+,"Fayetteville-Springdale-Rogers, AR-MO",22220,3775,525032,719,696.1,741.9,11.7
+,"Flint, MI",22420,4516,408615,1105.2,1073,1137.4,16.4
+,"Fort Collins, CO",22660,2297,339993,675.6,648,703.2,14.1
+,"Fort Smith, AR-OK",22900,3069,281227,1091.3,1052.7,1129.9,19.7
+,"Fort Wayne, IN",23060,3931,431802,910.4,881.9,938.8,14.5
+,"Fresno, CA",23420,6717,979915,685.5,669.1,701.9,8.4
+,"Gainesville, FL",23540,2108,280708,751,718.9,783,16.4
+,"Grand Rapids-Wyoming, MI",24340,7924,1047099,756.8,740.1,773.4,8.5
+,"Greeley, CO",24540,1758,294932,596.1,568.2,623.9,14.2
+,"Green Bay, WI",24580,2637,318236,828.6,797,860.3,16.1
+,"Greensboro-High Point, NC",24660,7053,756139,932.8,911,954.5,11.1
+,"Greenville-Anderson-Mauldin, SC",24860,8721,884975,985.5,964.8,1006.1,10.6
+,"Gulfport-Biloxi-Pascagoula, MS",25060,3844,391266,982.5,951.4,1013.5,15.8
+,"Hagerstown-Martinsburg, MD-WV",25180,2575,263817,976.1,938.4,1013.8,19.2
+,"Harrisburg-Carlisle, PA",25420,5404,568033,951.4,926,976.7,12.9
+,"Hartford-West Hartford-East Hartford, CT",25540,10582,1206836,876.8,860.1,893.5,8.5
+,"Hickory-Lenoir-Morganton, NC",25860,4054,364187,1113.2,1078.9,1147.4,17.5
+,"Houston-The Woodlands-Sugar Land, TX",26420,39671,6772470,585.8,580,591.5,2.9
+,"Huntington-Ashland, WV-KY-OH",26580,4608,359588,1281.5,1244.5,1318.5,18.9
+,"Huntsville, AL",26620,4009,449720,891.4,863.8,919,14.1
+,"Indianapolis-Carmel-Anderson, IN",26900,16765,2004230,836.5,823.8,849.1,6.5
+,"Jackson, MS",27140,5367,579229,926.6,901.8,951.4,12.6
+,"Jacksonville, FL",27260,12820,1478212,867.3,852.3,882.3,7.7
+,"Kalamazoo-Portage, MI",28020,2965,336877,880.1,848.5,911.8,16.2
+,"Kansas City, MO-KS",28140,16862,2104509,801.2,789.1,813.3,6.2
+,"Kennewick-Richland, WA",28420,1785,283846,628.9,599.7,658,14.9
+,"Killeen-Temple, TX",28660,2845,435857,652.7,628.8,676.7,12.2
+,"Kingsport-Bristol-Bristol, TN-VA",28700,4052,306334,1322.7,1282,1363.5,20.8
+,"Knoxville, TN",28940,9528,868546,1097,1075,1119,11.2
+,"Lafayette, LA",29180,4120,491528,838.2,812.6,863.8,13.1
+,"Lakeland-Winter Haven, FL",29460,6699,666149,1005.6,981.5,1029.7,12.3
+,"Lancaster, PA",29540,5121,538500,951,924.9,977,13.3
+,"Lansing-East Lansing, MI",29620,3646,475099,767.4,742.5,792.3,12.7
+,"Laredo, TX",29700,1397,271193,515.1,488.1,542.1,13.8
+,"Las Vegas-Henderson-Paradise, NV",29820,16079,2155664,745.9,734.4,757.4,5.9
+,"Lexington-Fayette, KY",30460,4201,506751,829,803.9,854.1,12.8
+,"Lincoln, NE",30700,2347,326921,717.9,688.9,747,14.8
+,"Little Rock-North Little Rock-Conway, AR",30780,6796,734622,925.1,903.1,947.1,11.2
+,"Los Angeles-Long Beach-Anaheim, CA",31080,82773,13310447,621.9,617.6,626.1,2.2
+,"Louisville/Jefferson County, KY-IN",31140,13157,1283430,1025.1,1007.6,1042.7,8.9
+,"Lubbock, TX",31180,2566,314840,815,783.5,846.6,16.1
+,"Lynchburg, VA",31340,2671,260232,1026.4,987.5,1065.3,19.9
+,"Madison, WI",31540,4343,648929,669.3,649.4,689.2,10.2
+,"Manchester-Nashua, NH",31700,3388,407761,830.9,802.9,858.9,14.3
+,"McAllen-Edinburg-Mission, TX",32580,4341,849843,510.8,495.6,526,7.8
+,"Memphis, TN-MS-AR",32820,12006,1342842,894.1,878.1,910.1,8.2
+,"Merced, CA",32900,1850,268672,688.6,657.2,719.9,16
+,"Miami-Fort Lauderdale-West Palm Beach, FL",33100,50215,6066387,827.8,820.5,835,3.7
+,"Milwaukee-Waukesha-West Allis, WI",33340,13697,1572482,871,856.5,885.6,7.4
+,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,23851,3551036,671.7,663.1,680.2,4.3
+,"Mobile, AL",33660,4411,414836,1063.3,1031.9,1094.7,16
+,"Modesto, CA",33700,4294,541560,792.9,769.2,816.6,12.1
+,"Montgomery, AL",33860,3617,373922,967.3,935.8,998.8,16.1
+,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",34820,4898,449295,1090.2,1059.6,1120.7,15.6
+,"Naples-Immokalee-Marco Island, FL",34940,3273,365136,896.4,865.7,927.1,15.7
+,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,14990,1865298,803.6,790.8,816.5,6.6
+,"New Haven-Milford, CT",35300,7745,856875,903.9,883.7,924,10.3
+,"New Orleans-Metairie, LA",35380,11176,1268883,880.8,864.4,897.1,8.3
+,"New York-Newark-Jersey City, NY-NJ-PA",35620,144452,20153634,716.8,713.1,720.5,1.9
+,"North Port-Sarasota-Bradenton, FL",35840,9744,788457,1235.8,1211.3,1260.4,12.5
+,"Norwich-New London, CT",35980,2462,269801,912.5,876.5,948.6,18.4
+,"Ocala, FL",36100,5097,349020,1460.4,1420.3,1500.5,20.5
+,"Ogden-Clearfield, UT",36260,4047,654417,618.4,599.4,637.5,9.7
+,"Oklahoma City, OK",36420,11617,1373211,846,830.6,861.4,7.8
+,"Olympia-Tumwater, WA",36500,2151,275222,781.6,748.5,814.6,16.9
+,"Omaha-Council Bluffs, NE-IA",36540,6765,924129,732,714.6,749.5,8.9
+,"Orlando-Kissimmee-Sanford, FL",36740,17672,2441257,723.9,713.2,734.6,5.4
+,"Oxnard-Thousand Oaks-Ventura, CA",37100,5563,849738,654.7,637.5,671.9,8.8
+,"Palm Bay-Melbourne-Titusville, FL",37340,7315,579130,1263.1,1234.2,1292,14.8
+,"Pensacola-Ferry Pass-Brent, FL",37860,4748,485684,977.6,949.8,1005.4,14.2
+,"Peoria, IL",37900,3825,376246,1016.6,984.4,1048.8,16.4
+,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,55501,6070500,914.3,906.7,921.9,3.9
+,"Phoenix-Mesa-Scottsdale, AZ",38060,33771,4661537,724.5,716.7,732.2,3.9
+,"Pittsburgh, PA",38300,27888,2342299,1190.6,1176.7,1204.6,7.1
+,"Portland-South Portland, ME",38860,5017,529657,947.2,921,973.4,13.4
+,"Portland-Vancouver-Hillsboro, OR-WA",38900,17489,2424955,721.2,710.5,731.9,5.5
+,"Port St. Lucie, FL",38940,5216,465208,1121.2,1090.8,1151.6,15.5
+,"Providence-Warwick, RI-MA",39300,15055,1614750,932.3,917.4,947.2,7.6
+,"Provo-Orem, UT",39340,2550,603309,422.7,406.3,439.1,8.4
+,"Raleigh, NC",39580,7621,1302946,584.9,571.8,598,6.7
+,"Reading, PA",39740,4061,414812,979,948.9,1009.1,15.4
+,"Reno, NV",39900,4095,457667,894.8,867.4,922.2,14
+,"Richmond, VA",40060,10836,1281708,845.4,829.5,861.4,8.1
+,"Riverside-San Bernardino-Ontario, CA",40140,30336,4527837,670,662.4,677.5,3.8
+,"Roanoke, VA",40220,3541,313698,1128.8,1091.6,1166,19
+,"Rochester, NY",40380,9841,1078879,912.2,894.1,930.2,9.2
+,"Rockford, IL",40420,3300,339376,972.4,939.2,1005.5,16.9
+,"Sacramento--Roseville--Arden-Arcade, CA",40900,17277,2296418,752.3,741.1,763.6,5.7
+,"St. Louis, MO-IL",41180,26769,2807002,953.7,942.2,965.1,5.8
+,"Salem, OR",41420,3524,418139,842.8,815,870.6,14.2
+,"Salinas, CA",41500,2573,435232,591.2,568.3,614,11.7
+,"Salisbury, MD-DE",41540,4497,400200,1123.7,1090.8,1156.5,16.8
+,"Salt Lake City, UT",41620,7124,1186187,600.6,586.6,614.5,7.1
+,"San Antonio-New Braunfels, TX",41700,17202,2429609,708,697.4,718.6,5.4
+,"San Diego-Carlsbad, CA",41740,21420,3317749,645.6,637,654.3,4.4
+,"San Francisco-Oakland-Hayward, CA",41860,30088,4679166,643,635.8,650.3,3.7
+,"San Jose-Sunnyvale-Santa Clara, CA",41940,10460,1978816,528.6,518.5,538.7,5.2
+,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",42020,2411,282887,852.3,818.3,886.3,17.4
+,"Santa Cruz-Watsonville, CA",42100,1744,274673,634.9,605.1,664.7,15.2
+,"Santa Maria-Santa Barbara, CA",42200,3156,446170,707.4,682.7,732,12.6
+,"Santa Rosa, CA",42220,4156,503070,826.1,801,851.2,12.8
+,"Savannah, GA",42340,3211,384024,836.1,807.2,865.1,14.8
+,"Scranton--Wilkes-Barre--Hazleton, PA",42540,6858,555225,1235.2,1205.9,1264.4,14.9
+,"Seattle-Tacoma-Bellevue, WA",42660,24976,3798902,657.5,649.3,665.6,4.2
+,"Shreveport-Bossier City, LA",43340,4632,441767,1048.5,1018.3,1078.7,15.4
+,"South Bend-Mishawaka, IN-MI",43780,3213,320740,1001.7,967.1,1036.4,17.7
+,"Spartanburg, SC",43900,3475,329136,1055.8,1020.7,1090.9,17.9
+,"Spokane-Spokane Valley, WA",44060,5123,556634,920.4,895.2,945.6,12.9
+,"Springfield, MA",44140,5666,630283,899,875.6,922.4,11.9
+,"Springfield, MO",44180,4334,458930,944.4,916.3,972.5,14.3
+,"Stockton-Lodi, CA",44700,5494,733709,748.8,729,768.6,10.1
+,"Syracuse, NY",45060,6134,656510,934.3,911,957.7,11.9
+,"Tallahassee, FL",45220,2761,379627,727.3,700.2,754.4,13.8
+,"Tampa-St. Petersburg-Clearwater, FL",45300,31247,3032171,1030.5,1019.1,1041.9,5.8
+,"Toledo, OH",45780,6183,605221,1021.6,996.1,1047.1,13
+,"Trenton, NJ",45940,2925,371023,788.4,759.8,816.9,14.6
+,"Tucson, AZ",46060,9508,1016206,935.6,916.8,954.4,9.6
+,"Tulsa, OK",46140,9346,987201,946.7,927.5,965.9,9.8
+,"Urban Honolulu, HI",46520,7577,992605,763.3,746.2,780.5,8.8
+,"Utica-Rome, NY",46540,3175,293803,1080.7,1043.1,1118.2,19.2
+,"Vallejo-Fairfield, CA",46700,3271,440207,743.1,717.6,768.5,13
+,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,14100,1726907,816.5,803,830,6.9
+,"Visalia-Porterville, CA",47300,3023,460437,656.6,633.1,680,11.9
+,"Waco, TX",47380,2226,265207,839.3,804.5,874.2,17.8
+,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,35296,6131977,575.6,569.6,581.6,3.1
+,"Wichita, KS",48620,5949,644672,922.8,899.3,946.2,12
+,"Wilmington, NC",48900,2612,282573,924.4,888.9,959.8,18.1
+,"Winston-Salem, NC",49180,6538,662079,987.5,963.6,1011.4,12.2
+,"Worcester, MA-CT",49340,8133,935781,869.1,850.2,888,9.6
+,"York-Hanover, PA",49620,4190,443744,944.2,915.6,972.8,14.6
+,"Youngstown-Warren-Boardman, OH-PA",49660,7065,544746,1296.9,1266.7,1327.2,15.4
+,small metro,99400,283500,29464705,962.2,958.6,965.7,1.8
+,micropolitan,99500,290565,27257909,1066,1062.1,1069.9,2
+,noncore,99600,226412,18852675,1201,1196,1205.9,2.5
+Total,,,2744248,323127513,849.3,848.3,850.3,0.5
+---,,,,,,,,
+"Dataset: Compressed Mortality, 1999-2016",,,,,,,,
+Query Parameters:,,,,,,,,
+Title: 2013 CBSA Death Data,,,,,,,,
+Year: 2016,,,,,,,,
+Group By: 2013 CBSA,,,,,,,,
+Show Totals: True,,,,,,,,
+Show Zero Values: False,,,,,,,,
+Show Suppressed: False,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,
+---,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,,,,
+---,,,,,,,,
+"Query Date: Sep 29, 2020 4:11:15 PM",,,,,,,,
+---,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,,,,
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No.",,,,,,,,
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Sep 29, 2020 4:11:15 PM",,,,,,,,
+---,,,,,,,,
+Caveats:,,,,,,,,
+1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal,,,,,,,,
+estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;,,,,,,,,
+population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1,,,,,,,,
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from",,,,,,,,
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of",,,,,,,,
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are",,,,,,,,
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,",,,,,,,,
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014",,,,,,,,
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1",,,,,,,,
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:",,,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Population Information.,,,,,,,,
+2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group.,,,,,,,,
+3. The method used to calculate 95% confidence intervals is documented here: More information:,,,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals.,,,,,,,,
+4. The method used to calculate standard errors is documented here: More information:,,,,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Standard-Errors.,,,,,,,,
+"5. 2013 CBSA shows data for core based statistical areas (CBSAs) of 250,000 or more population delineated in the June 2013 OMB",,,,,,,,
+classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore).,,,,,,,,
